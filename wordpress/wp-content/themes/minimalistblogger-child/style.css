@@ -1,0 +1,11 @@
+/* 
+    Theme Name: minimalistblogger-child
+    Template: minimalistblogger
+*/
+
+@import url('../minimalistblogger/style.css');
+
+.site-footer{
+    text-align: center;
+}
+

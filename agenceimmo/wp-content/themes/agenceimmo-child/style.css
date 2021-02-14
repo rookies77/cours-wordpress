@@ -1,0 +1,46 @@
+/* 
+    Theme Name: travelore-child
+    Template: travelore
+*/
+
+@import url('../travelore/style.css');
+.header-media .post-thumbnail img {
+    height: 450px;
+
+}
+
+
+.wp-block-column {
+    border: solid 2px #2687b9;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.carousel-slider__post-title h2{
+    display: none;
+}
+
+.owl-item .carousel-slider__post-title {
+    display: none;
+}
+
+.carousel-slider__post-excerpt{
+    display: none;
+}
+/* .carousel-slider__post-publication-meta{
+    display: none;
+} */
+
+
+.carousel-slider__post-category-link{
+    display: none;
+}
+
+.carousel-slider__post-publication-date, .carousel-slider__post-meta, .carousel-slider__post-author-link{
+    display: none;
+}
+
+.carousel-slider__post-author, .carousel-slider__post-author-link{
+    display: none;
+}
+
